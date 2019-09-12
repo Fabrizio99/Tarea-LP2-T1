@@ -1,0 +1,22 @@
+form{
+    width: 50%;
+}
+form legend{
+    text-align: '';
+}
+label{
+    display: block;
+    margin:5px;
+    text-align: center;
+}
+.buttons{
+    text-align: center;
+    margin: 30px 0;
+
+}
+#add, #subtract, #multiply, #divide{
+    width: 35px;
+    height: 35px;
+    font-weight: bold;
+    font-size: 1.5em;
+}
